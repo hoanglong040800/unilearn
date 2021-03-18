@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BP Editable Activity\n"
+"POT-Creation-Date: 2018-08-21 03:23+0530\n"
+"PO-Revision-Date: 2018-08-21 03:23+0530\n"
+"Last-Translator: \n"
+"Language-Team: BuddyDev\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin.php:45
+msgid "BP Editable Activity Settings"
+msgstr ""
+
+#: admin/admin.php:45
+msgid "You can manage all the settings for BP editable activity from here."
+msgstr ""
+
+#: admin/admin.php:51
+msgid "Allow editing Activity?"
+msgstr ""
+
+#: admin/admin.php:52
+msgid "Do you want your Users to be able to edit activity?"
+msgstr ""
+
+#: admin/admin.php:56 admin/admin.php:74 admin/admin.php:86
+msgid "Yes"
+msgstr ""
+
+#: admin/admin.php:57 admin/admin.php:75 admin/admin.php:87
+msgid "No"
+msgstr ""
+
+#: admin/admin.php:62 admin/admin.php:92
+msgid "Allow editing only before the given time"
+msgstr ""
+
+#: admin/admin.php:63 admin/admin.php:93
+msgid ""
+"Put a number. This is the number of minute after posting of activity. Zero "
+"means no limit"
+msgstr ""
+
+#: admin/admin.php:69
+msgid "Keep Log of Edited activity Items?"
+msgstr ""
+
+#: admin/admin.php:70
+msgid ""
+"If you enable, It will store the original activity content in activity meta "
+"table. Not suggested if you don't plan to use it in future!"
+msgstr ""
+
+#: admin/admin.php:81
+msgid "Allow Editing of activity Comment"
+msgstr ""
+
+#: admin/admin.php:82
+msgid "Do you want your users to be able to edit their activity comment?"
+msgstr ""
+
+#: admin/admin.php:110
+msgid "BP Editable Activity"
+msgstr ""
+
+#: admin/fields/image.php:35
+msgid "Remove"
+msgstr ""
+
+#: ajax.php:36 ajax.php:97
+msgid "Please Try again later!"
+msgstr ""
+
+#: ajax.php:42
+msgid "Invalid Activity."
+msgstr ""
+
+#: ajax.php:47
+msgid "Editing Activity is disabled."
+msgstr ""
+
+#: ajax.php:53 ajax.php:114
+msgid "Allowed time for editing expired."
+msgstr ""
+
+#: ajax.php:57
+msgid "You are not allowed to edit this activity."
+msgstr ""
+
+#: ajax.php:103
+msgid "Invalid Comment!"
+msgstr ""
+
+#: ajax.php:108
+msgid "Editing comment is disabled."
+msgstr ""
+
+#: ajax.php:118
+msgid "You are not allowed to edit this comment."
+msgstr ""
+
+#: bp-editable-activity.php:140
+msgid "Save"
+msgstr ""
+
+#: bp-editable-activity.php:141
+msgid "Cancel"
+msgstr ""
+
+#: bp-editable-activity.php:142
+msgid "Updating..."
+msgstr ""
+
+#: bp-editable-activity.php:185 bp-editable-activity.php:218
+msgid "Edit"
+msgstr ""
